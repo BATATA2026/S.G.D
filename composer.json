@@ -1,0 +1,7 @@
+{
+    "name": "sgd/site",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
